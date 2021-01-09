@@ -1,14 +1,17 @@
-# CSE110GithubPage
+# CSE110 Guo's Github Page
 
-Guo's Github Page
+
 
 ![Picture of me](https://github.com/gcheng9430/CSE110GuithubPage/blob/main/IMG_9150.JPG)
 
 ## Education
 
 **University of California in San Diego**
+
 Major1: Math-Computer Science
+
 Major2: International Business
+
 GPA:3.618
 
 Courses taken:
