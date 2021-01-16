@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# CSE110 Guo's Github Page
 
-You can use the [editor on GitHub](https://github.com/gcheng9430/CSE110GuithubPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Picture of me](https://github.com/gcheng9430/CSE110GuithubPage/blob/main/IMG_9150.JPG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+**University of California in San Diego**
 
-# Header 1
-## Header 2
-### Header 3
+Major1: Math-Computer Science
 
-- Bulleted
-- List
+Major2: International Business
 
-1. Numbered
-2. List
+GPA:3.618
 
-**Bold** and _Italic_ and `Code` text
+Courses taken:
+- Linear Algebra
+- Data Structure
+- Computational Statistics
+- Algorithms
+- Corporate Finance
+- Business Analytics
+- Marketing and Brand Management 
 
-[Link](url) and ![Image](src)
-```
+## Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**HOX Asian Fraternity**
+Role:  Tech Vice President
 
-### Jekyll Themes
+**China Citic Bank**
+Role: Personal Loan Intern
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gcheng9430/CSE110GuithubPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Philanx Analysis Group**
+Role：Data Analyst Intern
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find more information about me om [my Linkedn page](https://www.linkedin.com/in/guo-cheng-8b4bb2124/)!
+
+
+
+## Personal Interest
+
+- Photography
+
+- Video Editing
+  - Personal Channel: [Youtube Channel](https://www.youtube.com/channel/UCtHo4yAqIUZHXIV-bAPAirg)
+
