@@ -2,7 +2,7 @@
 
 
 
-![Picture of me](https://github.com/gcheng9430/CSE110GuithubPage/blob/main/IMG_9150.JPG)
+![Picture of me](IMG_9150.JPG)
 
 ## Education
 
